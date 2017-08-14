@@ -1009,4 +1009,4 @@
 		NotFound: HustleNotFound
 	};
 	window.Hustle = Hustle;
-})(window);
+})(self);
